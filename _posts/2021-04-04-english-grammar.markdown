@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "現在形：Yes-No 疑問文"
+title:  "[GrammarFocus] 現在形：Yes-No 疑問文"
 subtitle:   "Yes-No 疑問文"
 categories: english
 tags: GrammarForcus
