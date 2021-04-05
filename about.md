@@ -5,7 +5,13 @@ menu: true
 order: 10
 ---
 
-## Introduction
+### Introduction
 
-* 2021年 4月 1日 Github pages にブログを新設しました。
+二人の子供を育ている普通のパパ
+
+### Activity
+
+* 2021年 
+ - 4月4日 htmlで作成したEnglishGrammarを移動
+ - 4月1日 Github pages にJekyllを取り込み
 
