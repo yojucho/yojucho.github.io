@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "現在形：Yes-No 疑問文"
+title: "[DAY1] 現在形：Yes-No 疑問文"
 subtitle: "Yes-No 疑問文"
 categories: english
-tags: Grammar
+tags: grammar
 comments: true
 ---
 > Simple Present: Yes-No Questions
 
-# Yes-No 疑問文
+## Yes-No 疑問文
 
 Yes-No 疑問文はYesか Noで答えられる疑問文のことです。  
 このタイプの疑問文には種類があります。  

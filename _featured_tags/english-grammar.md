@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: GrammarFocus
-slug: grammarfocus
+title: Grammar
+slug: grammar
 category: english
 menu: false
 order: 1

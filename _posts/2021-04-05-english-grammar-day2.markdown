@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "現在形：Wh-疑問文"
+title: "[DAY2] 現在形：Wh-疑問文"
 subtitle: "Wh-疑問文"
 categories: english
-tags: Grammar
+tags: grammar
 comments: true
 ---
 > Simple Present: Wh-Questions
 
-# Wh-疑問文
+## Wh-疑問文
 
 Who(誰)、When(いつ)、Where(どこ)、What(何)、Why(なぜ)、How(どのように)  
 などの疑問詞を使った疑問文を Wh-疑問文といいます。  
@@ -30,9 +30,9 @@ Wh-疑問文：`What` does he play?
 [What + 名詞] や [What + (kind / part) of + 名詞]などの疑問詞句も  
 よくつわれます。  
   
- - What sports do you like?  [どんなスポーツが好きですか?]  
- - What kind of company is it?  [どういった関係の会社ですか?]  
- - What part of England are they from?  [彼らはイギリスのどの地域の出身ですか?]  
+ - What sports do you like? [どんなスポーツが好きですか?]  
+ - What kind of company is it? [どういった関係の会社ですか?]  
+ - What part of England are they from? [彼らはイギリスのどの地域の出身ですか?]  
 
 
 * __応答分__
