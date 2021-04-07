@@ -11,7 +11,8 @@ order: 10
 
 ### Activity
 
-* 2021年 
- - 4月4日 htmlで作成したEnglishGrammarを移動
- - 4月1日 Github pages にJekyllを取り込み
+__2021年__
+
+ - 4月4日 Htmlで作成したEnglishGrammarをMarkdownに変更
+ - 4月1日 Github pages の工事開始
 
