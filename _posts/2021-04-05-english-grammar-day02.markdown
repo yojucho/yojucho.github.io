@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[DAY2] 現在形：Wh-疑問文"
-subtitle: "Wh-疑問文"
+subtitle: "現在形：Wh-疑問文"
 categories: english
 tags: grammar
 comments: true
